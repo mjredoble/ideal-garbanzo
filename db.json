@@ -23,12 +23,20 @@
       {
          "id":1,
          "body":"some comment",
-         "postId":1
+         "postId":1,
+         "name": "Anonymous"
       },
       {
          "id":2,
          "body":"some comment",
-         "postId":1
+         "postId":1,
+         "name": "Mr. Beast"
+      },
+      {
+         "id":3,
+         "body":"some comment",
+         "postId":1,
+         "name": "Dr. Unknown"
       }
    ],
    "profile":{
