@@ -1,0 +1,20 @@
+[
+{
+"userId": 1,
+"id": 1,
+"title": "My favorite quotes",
+"body": "You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of."
+},
+{
+"userId": 1,
+"id": 2,
+"title": "My Day",
+"body": "This is one of the strangest day of my life"
+},
+{
+"userId": 1,
+"id": 3,
+"title": "Weird Weather",
+"body": "Yesterday is Sunny, then it Snow all of a sudden"
+}
+]
