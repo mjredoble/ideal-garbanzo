@@ -4,19 +4,29 @@
          "userId":1,
          "id":1,
          "title":"My favorite quotes",
-         "body":"You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of."
+         "body":"You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.",
+         "liked": true
       },
       {
          "userId":1,
          "id":2,
          "title":"My Day",
-         "body":"This is one of the strangest day of my life"
+         "body":"This is one of the strangest day of my life",
+         "liked": false
       },
       {
          "userId":1,
          "id":3,
          "title":"Weird Weather",
-         "body":"Yesterday is Sunny, then it Snow all of a sudden"
+         "body":"Yesterday is Sunny, then it Snow all of a sudden",
+         "liked": false
+      },
+      {
+         "userId":1,
+         "id":4,
+         "title":"What happen to me today?!",
+         "body":"I was really really tired today, but all is well!",
+         "liked": true
       }
    ],
    "comments":[
